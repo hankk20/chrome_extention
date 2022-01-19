@@ -1,0 +1,23 @@
+{
+  "name": "한양유치원 이미지 다운로드",
+  "manifest_version": 2,
+  "version": "1.02",
+  "description": "한양유치원 게시판 이미지 전체 다운로드를 할 수 있습니다.",
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png",
+    "256": "icon.png"
+  },
+  "content_scripts": [{
+    "matches": ["https://hanyangkids.net/main/sub.html?Mode=view&boardID*", "http://hanyangkids.net/main/sub.html?Mode=view&boardID*"],
+    "js": ["lib/jquery-3.6.0.min.js", "lib/jszip.min.js", "lib/jszip-utils.min.js","content-script.js"],
+    "css": ["lib/css.css"],
+    "all_frames": true,
+    "run_at" : "document_end"}
+  ],
+  "web_accessible_resources": [
+    "image/*"
+  ]
+}
+
