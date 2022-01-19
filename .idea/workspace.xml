@@ -25,6 +25,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="4" />
     <option name="recentBranches">
       <RecentBranches>
         <option name="branchesForRepo">
@@ -34,7 +35,7 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1642578749" />
+                    <option name="lastUsedInstant" value="1642579424" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
@@ -68,6 +69,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$PROJECT_DIR$/../../../android/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -100,6 +102,7 @@
       <workItem from="1621516967643" duration="2282000" />
       <workItem from="1629694215189" duration="2308000" />
       <workItem from="1642578595421" duration="594000" />
+      <workItem from="1642579212593" duration="311000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1642578714444</created>
@@ -108,7 +111,21 @@
       <option name="project" value="LOCAL" />
       <updated>1642578714444</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first">
+      <created>1642579338129</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642579338129</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first">
+      <created>1642579346922</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1642579346922</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
